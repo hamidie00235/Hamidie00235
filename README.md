@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidie00235&show_icons=true&locale=en" alt="hamidie00235" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidie00235&" alt="hamidie00235" /></p>
+
+![snake gif](https://github.com/hamidie00235/hamidie00235/blob/output/github-contribution-grid-snake.gif)
