@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hamidieahmat@gmail.com**
 
-- ⚡ Fun fact **New technologies,Literature,Foreign languages.**
+- ⚡ Fun fact **New technologies, Literature, Foreign languages.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
