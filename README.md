@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm hamidie</h1>
-<h3 align="center">I am passionate about information and communication technologies, currently pursuing a degree in computer engineering at Karabuk University in Turkey.</h3>
+<h3 align="center">I am passionate about information and communication technologies , currently pursuing a degree in computer engineering at Karabuk University in Turkey.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamidie00235](https://github.com/hamidie00235)
 
