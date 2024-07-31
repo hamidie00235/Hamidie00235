@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/](https://github-readme-streak-stats.herokuapp.com/?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D))
+[![MasterHead][([https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/](https://github-readme-streak-stats.herokuapp.com/?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D))](https://raw.githubusercontent.com/henninghall/react-native-date-picker/master/docs/react-native-date-picker-android-native.gif)
 <h1 align="center">Hi 👋, I'm hamidie ahmat</h1>
 <h3 align="center">computer engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
