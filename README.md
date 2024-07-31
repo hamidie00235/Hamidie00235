@@ -1,4 +1,4 @@
-[![MasterHead][https://miro.medium.com/v2/resize:fit:1400/1*XXDEfyQxx_p3eKibMpmcKA.gif)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*XXDEfyQxx_p3eKibMpmcKA.gif)
 <h1 align="center">Hi 👋, I'm hamidie ahmat</h1>
 <h3 align="center">computer engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
