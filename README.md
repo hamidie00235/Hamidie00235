@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Software Development](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z6iv8kCHYV8r1pL-1SwUtw.png)
+![Software Development](https://www.pngitem.com/pimgs/m/209-2091923_software-development-team-icon-hd-png-download.png)
 
 <h1 align="center">Hello, I'm Hamidie Ahmat 👋</h1>
 <h3 align="center">A Passionate Computer Engineer | Java Enthusiast | Lifelong Learner</h3>
