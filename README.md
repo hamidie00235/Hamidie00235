@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/yourusername/your-repo/main/path-to-image/yourimage.jpg)
+![MasterHead](https://res.cloudinary.com/your-account/image/upload/v12345/yourimage.jpg)
 
 <h1 align="center">Hi 👋, I'm Hamidie Ahmat</h1>
 <h3 align="center">Computer Engineer | Java Enthusiast</h3>
