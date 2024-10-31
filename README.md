@@ -1,7 +1,8 @@
-![MasterHead](https://res.cloudinary.com/your-account/image/upload/v12345/yourimage.jpg)
+<!-- Banner -->
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Hamidie Ahmat</h1>
-<h3 align="center">Computer Engineer | Java Enthusiast</h3>
+<h3 align="center">A passionate Computer Engineer | Java Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -16,10 +17,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/hamdev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hamdev" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="hamdev" height="30" width="40" />
   </a>
   <a href="https://twitter.com/hamidie00235" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamidie00235" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="hamidie00235" height="30" width="40" />
   </a>
 </p>
 
@@ -45,6 +46,8 @@
   </a>
 </p>
 
+<!-- GitHub Stats -->
+<h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidie00235&show_icons=true&locale=en&layout=compact&langs_count=6&hide=html,css" alt="hamidie00235" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidie00235&show_icons=true&locale=en&theme=radical" alt="hamidie00235" /></p>
