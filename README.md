@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/68243750/113317823-5dc99500-9314-11eb-975e-dc66c6d2d3a3.png)
+![MasterHead](https://raw.githubusercontent.com/yourusername/your-repo/main/assets/yourimage.jpg)
 
 <h1 align="center">Hi 👋, I'm Hamidie Ahmat</h1>
 <h3 align="center">Computer Engineer | Java Enthusiast</h3>
