@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Software Development](https://www.kindpng.com/picc/m/2217400/software-development-png-transparent-software-development.png)
+![Software Development](https://www.pngitem.com/pimgs/m/216-2166851_software-development-software-development-coding-png-transparent.png)
 
 <h1 align="center">Hello, I'm Hamidie Ahmat 👋</h1>
 <h3 align="center">A Passionate Computer Engineer | Java Enthusiast | Lifelong Learner</h3>
