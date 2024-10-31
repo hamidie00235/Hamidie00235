@@ -1,5 +1,5 @@
 <!-- Banner -->
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![Software Development](https://www.kindpng.com/picc/m/2217400/software-development-png-transparent-software-development.png)
 
 <h1 align="center">Hello, I'm Hamidie Ahmat 👋</h1>
 <h3 align="center">A Passionate Computer Engineer | Java Enthusiast | Lifelong Learner</h3>
