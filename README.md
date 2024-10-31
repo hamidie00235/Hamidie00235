@@ -1,4 +1,4 @@
-![MasterHead]([https://github.com/hamidie/ahmat/blob/main/img/Github%20Banner.jpg](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c7q2v3y6vu2hpynwcdl.gif))
+![MasterHead](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0c7q2v3y6vu2hpynwcdl.gif)
 <h1 align="center">Hi 👋, I'm hamidie ahmat</h1>
 <h3 align="center">computer engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
