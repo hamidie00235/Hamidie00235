@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQFUzFxf9k9oQA/profile-displaybackgroundimage-shrink_350_1400/0/1682500590138?e=1697068800&v=beta&t=masterHeadBanner)
+![MasterHead](https://user-images.githubusercontent.com/68243750/113317823-5dc99500-9314-11eb-975e-dc66c6d2d3a3.png)
 
 <h1 align="center">Hi 👋, I'm Hamidie Ahmat</h1>
 <h3 align="center">Computer Engineer | Java Enthusiast</h3>
